@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Vscode
+.vscode
+
+# Cmake
+build
+cmake-build-debug
+
+# Jetbrains
+.idea
+

@@ -1,1 +1,1 @@
-# CyA-Practica-12-Divide---Conquer
+# CyA-Practica-12-Divide-and-Conquer
